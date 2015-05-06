@@ -24,7 +24,7 @@ typedef struct _game {
 	int dice[NUMBER_OF_HEXES];
 	int currentTurn;
 	int diceScore;
-	university A;
-	university B;
-	university C;
+	university UNI_A;
+	university UNI_B;
+	university UNI_C;
 } game;	
